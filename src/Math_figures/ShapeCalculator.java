@@ -3,9 +3,9 @@ package Math_figures;
 public class ShapeCalculator {
 
     public static void main(String[] args) {
-        Square square1 = new Square(10, 10);
-        square1.squareArea();
-        System.out.println("Powierzchnia kwadratu wynosi " + square1.area + " cm2.");
+      //  Square square1 = new Square(10, 10);
+       // square1.squareArea();
+      //  System.out.println("Powierzchnia kwadratu wynosi " + square1.area + " cm2.");
         Rectangle rectangle1 = new Rectangle(25, 50);
         rectangle1.rectPerimeter();
         System.out.println("Obwód prostokąta wynosi " + rectangle1.perimtert +" cm.");
